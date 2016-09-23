@@ -11,3 +11,5 @@ autoconf
 ./configure
 make && make install
 
+source /etc/profile
+git config core.filemode false
